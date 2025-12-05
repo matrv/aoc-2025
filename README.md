@@ -4,7 +4,7 @@ Language ideas:
 
 - [x] Zig
 - [x] C
-- [ ] Gleam
+- [x] Gleam
 - [ ] Go
 - [ ] JS / TS
 - [ ] Rust
@@ -16,3 +16,4 @@ Language ideas:
 - [x] Ruby
 - [ ] Lua
 - [ ] PHP
+- [ ] Pascal
