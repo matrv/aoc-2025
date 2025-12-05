@@ -13,6 +13,6 @@ Language ideas:
 - [ ] Java
 - [ ] OCaml
 - [x] Elixir
-- [ ] Ruby
+- [x] Ruby
 - [ ] Lua
 - [ ] PHP
