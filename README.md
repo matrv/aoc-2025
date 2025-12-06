@@ -17,3 +17,4 @@ Language ideas:
 - [ ] Lua
 - [ ] PHP
 - [ ] Pascal
+- [x] Perl
