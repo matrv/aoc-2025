@@ -14,7 +14,7 @@ Language ideas:
 - [ ] OCaml
 - [x] Elixir
 - [x] Ruby
-- [ ] Lua
+- [x] Lua
 - [ ] PHP
 - [ ] Pascal
 - [x] Perl
