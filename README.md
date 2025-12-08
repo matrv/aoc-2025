@@ -18,3 +18,5 @@ Language ideas:
 - [ ] PHP
 - [ ] Pascal
 - [x] Perl
+- [x] Swift
+- [ ] Kotlin
