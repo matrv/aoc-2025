@@ -15,7 +15,7 @@ Language ideas:
 - [x] Elixir
 - [x] Ruby
 - [x] Lua
-- [ ] PHP
+- [x] PHP
 - [ ] Pascal
 - [x] Perl
 - [x] Swift
