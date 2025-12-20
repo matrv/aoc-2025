@@ -8,7 +8,7 @@ Language ideas:
 - [ ] Go
 - [ ] JS / TS
 - [ ] Rust
-- [ ] Python
+- [x] Python
 - [ ] C#
 - [ ] Java
 - [ ] OCaml
